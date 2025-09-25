@@ -214,5 +214,4 @@ Agradecemos a dedicação de todos os desenvolvedores(as):
 Este projeto de laboratório acadêmico é distribuído sob a permissiva **Licença MIT**.
 
 > [!NOTE]
-
 > **Para detalhes completos sobre seus direitos e permissões, consulte o arquivo [LICENSE](LICENSE) na raiz deste repositório.**
