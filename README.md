@@ -45,25 +45,23 @@ Todo o código-fonte está integralmente redigido em Português do Brasil. Essa 
 ## :eyes: Front-end (Screenshots)
 
 <p align="center">
-      <a href="./img/PainelDashboard.png">
-        <img src="./img/PainelDashboard.png" alt="Painel Dashboard" width="180" title="2. Painel Dashboard"/>
-    </a>
+    <img src="./img/PainelDashboard.png" alt="Painel Dashboard Principal" title="1. Painel Dashboard" width="100%"/>
 </p>
 <p align="center">
-    <a href="./img/TelaLogin.png">
-        <img src="./img/TelaLogin.png" alt="Tela de Login" width="180" title="1. Tela de Login"/>
+    <a href="./img/TelaLogin.png" target="_blank">
+        <img src="./img/TelaLogin.png" alt="Tela de Login" width="13%" height="120" title="2. Tela de Login"/>
     </a>
-    <a href="./img/PainelProjetos.png">
-        <img src="./img/PainelProjetos.png" alt="Painel Projetos" width="180" title="3. Painel Projetos"/>
+    <a href="./img/PainelProjetos.png" target="_blank">
+        <img src="./img/PainelProjetos.png" alt="Painel Projetos" width="20%" height="120" title="3. Painel Projetos"/>
     </a>
-    <a href="./img/PainelEquipes.png">
-        <img src="./img/PainelEquipes.png" alt="Painel Equipes" width="180" title="4. Painel Equipes"/>
+    <a href="./img/PainelEquipes.png" target="_blank">
+        <img src="./img/PainelEquipes.png" alt="Painel Equipes" width="20%" height="120" title="4. Painel Equipes"/>
     </a>
-    <a href="./img/PainelUsuarios.png">
-        <img src="./img/PainelUsuarios.png" alt="Painel Usuários" width="180" title="5. Painel Usuários"/>
+    <a href="./img/PainelUsuarios.png" target="_blank">
+        <img src="./img/PainelUsuarios.png" alt="Painel Usuários" width="20%" height="120" title="5. Painel Usuários"/>
     </a>
-    <a href="./img/PainelProjetos_CadastrarProjeto.png">
-        <img src="./img/PainelProjetos_CadastrarProjeto.png" alt="Cadastro Projeto" width="180" title="6. Cadastro de Projeto"/>
+    <a href="./img/PainelProjetos_CadastrarProjeto.png" target="_blank">
+        <img src="./img/PainelProjetos_CadastrarProjeto.png" alt="Cadastro Projeto" width="16%" height="120" title="6. Cadastro de Projeto"/>
     </a>
 </p>
 
