@@ -1,0 +1,41 @@
+### Java ###
+# Compiled class file
+*.class
+
+# Arquivos de configuração do eclipse
+.classpath
+.project
+.settings/
+
+# Diretórios de build e binários do Maven
+target/
+bin/
+
+# Cache e histórico local
+.history/
+.vscode/
+*.log
+*.bak
+
+# Banco de Dados
+*.db
+nexus.db
+
+# Arquivos de distribuição / Package Files (JAR, WAR, etc.)
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# virtual machine crash logs
+hs_err_pid*
+replay_pid*
