@@ -21,7 +21,9 @@ bin/
 *.db
 nexus.db
 
-# Arquivos de distribuição / Package Files (JAR, WAR, etc.)
+# Arquivos de distribuição
+# Package Files (JAR, WAR, etc.)
+!nexus-academico-1.0.jar
 *.jar
 *.war
 *.nar
