@@ -87,7 +87,36 @@ Todo o código-fonte está integralmente redigido em Português do Brasil. Essa 
 ---
 
 ## :beginner: Como começar
-Siga os passos abaixo para baixar, configurar e executar o **Nexus Acadêmico** em sua máquina.
+
+Existem duas formas principais de utilizar o **Nexus Acadêmico** em sua máquina: a execução direta do arquivo JAR (para usuários finais) ou a compilação completa via Maven (para desenvolvedores).
+
+### Opção 1: Executar o Arquivo JAR (Para Usuários Finais)
+
+Esta opção é a mais simples e não requer a instalação do Maven ou de um ambiente de desenvolvimento.
+
+> [!TIP]
+> **O arquivo executável do sistema (`nexus-academico.jar`) está disponível na pasta principal do repositório.**
+
+#### :information_source: Pré-requisito
+
+- **Java Runtime Environment (JRE) 17 ou superior:** O ambiente necessário para rodar o arquivo `.jar`.
+
+#### :one: Executar a Aplicação
+
+1.  **Baixe o arquivo `nexus-academico.jar`** para a pasta desejada no seu computador.
+2.  Abra seu terminal (Prompt de Comando no Windows, Terminal no Linux/Mac ou o Git Bash) na mesma pasta onde o arquivo `.jar` foi salvo.
+3.  Execute o comando:
+
+```bash
+java -jar nexus-academico.jar
+```
+
+> [!IMPORTANT]
+> **O sistema é inicializado automaticamente!** Na primeira execução, ele cria o arquivo de banco de dados (nexus.db) e aplica o esquema SQL (tabelas e o usuário administrador padrão), abrindo em seguida a Tela de Login.
+
+### Opção 2: Configurar e compilar (Para Desenvolvedores)
+
+Siga estes passos se você deseja modificar ou contribuir com o código-fonte.
 
 ### :information_source: Pré-requisitos
 
@@ -100,7 +129,7 @@ Siga os passos abaixo para baixar, configurar e executar o **Nexus Acadêmico** 
 > Este passo baixa todos os arquivos do projeto para o seu computador.
 
 ```bash
-git clone [https://github.com/seu-usuario/nexus-academico.git](https://github.com/seu-usuario/nexus-academico.git)
+git clone https://github.com/euvictorhfs/nexus-academico.git
 ```
 
 ### :two: Configurar e compilar (Maven)
